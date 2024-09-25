@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="permission_dialog_titile_denied_once">權限申請說明</string>
+    <string name="permission_dialog_content_denied_once">為咗保證程序繼續運行，我前將向你申請以下權限：</string>
+    <string name="permission_dialog_confrim_denied_once">授權</string>
+    <string name="permission_dialog_cancel_denied_once">取消</string>
+
+    <string name="permission_dialog_titile_denied_always">權限申請說明</string>
+    <string name="permission_dialog_content_denied_always">你停用咗程式某啲權限嘅授權！ \n\n為咗保證程序繼續運行，要你前往設定頁面棍授權以下權限：</string>
+    <string name="permission_dialog_confrim_denied_always">跳轉授權</string>
+    <string name="permission_dialog_cancel_denied_always">取消授權</string>
+    <string name="permission_dialog_exit_denied_always">退出程式</string>
+
+    <string name="permission_dialog_better_performance">為咗令程式有更好嘅體驗，我哋同你申請以下内容：</string>
+</resources>

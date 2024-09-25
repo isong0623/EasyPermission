@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="permission_dialog_titile_denied_once">权限申请说明</string>
+    <string name="permission_dialog_content_denied_once">为了保证程序继续运行，我们将向您申请以下权限：</string>
+    <string name="permission_dialog_confrim_denied_once">授权</string>
+    <string name="permission_dialog_cancel_denied_once">取消</string>
+
+    <string name="permission_dialog_titile_denied_always">权限申请说明</string>
+    <string name="permission_dialog_content_denied_always">您禁用了程序某些权限的授权！\n\n为了保证程序继续运行，需要您前往设置页面手动授权以下权限：</string>
+    <string name="permission_dialog_confrim_denied_always">跳转授权</string>
+    <string name="permission_dialog_cancel_denied_always">取消授权</string>
+    <string name="permission_dialog_exit_denied_always">退出程序</string>
+
+    <string name="permission_dialog_better_performance">为了使程序有更好的体验，我们向您申请以下特性：</string>
+</resources>

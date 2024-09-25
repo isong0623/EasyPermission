@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent">
+        <Button
+            android:id="@+id/btn_test_feature_once"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="测试特性授权-一次" />
+
+        <Button
+            android:id="@+id/btn_test_feature_force"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="测试特性授权-强制" />
+
+        <Button
+            android:id="@+id/btn_test_permission_once"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="测试权限授权-一次" />
+
+        <Button
+            android:id="@+id/btn_test_permission_fully"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="测试权限授权-多次" />
+
+        <Button
+            android:id="@+id/btn_test_permission_force"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="测试权限授权-强制" />
+    </LinearLayout>
+
+</LinearLayout>

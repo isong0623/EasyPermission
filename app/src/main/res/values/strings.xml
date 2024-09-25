@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">EasyPermission</string>
+
+    <string name="setting">设置</string>
+    <string name="resume">恢复</string>
+    <string name="cancel">取消</string>
+    <string name="ok">@android:string/ok</string>
+
+    <string name="successfully">成功</string>
+    <string name="failure">失败</string>
+
+    <string name="permission_camera">摄像头</string>
+    <string name="permission_contact">联系人</string>
+    <string name="permission_location">位置</string>
+
+    <string name="permission_calendar">日历</string>
+    <string name="permission_microphone">麦克风</string>
+    <string name="permission_storage">存储</string>
+
+    <string name="permission_phone">电话</string>
+    <string name="permission_call_log">通话记录</string>
+    <string name="permission_activity_recognition">活动识别</string>
+    <string name="permission_sensors">传感器</string>
+    <string name="permission_sms">短信</string>
+    <string name="permission_setting">权限设置</string>
+
+    <string name="permission_notification">通知</string>
+    <string name="permission_notification_listener">通知监听器</string>
+
+    <string name="permission_install">安装 Apk</string>
+    <string name="permission_overlay">AlertWindow</string>
+
+    <string name="permission_write_setting">写入系统设置</string>
+
+    <string name="title_dialog">提示</string>
+    <string name="message_permission_rationale">授予以下权限以继续程序：\n\n%1$s</string>
+    <string name="message_permission_always_failed">请在设置中授予我们权限：\n\n%1$s</string>
+    <string name="message_setting_comeback">用户从设置页面。</string>
+
+    <string name="message_notification_rationale">您的设备不允许我们弹出通知。</string>
+
+    <string name="message_notification_listener_rationale">您的设备不允许我们访问通知。</string>
+
+    <string name="message_install_failed">您的设备不允许我们安装应用程序。</string>
+
+    <string name="message_overlay_failed">您的设备不允许我们在其他应用程序上绘图。</string>
+
+    <string name="message_write_setting_failed">您的设备不允许我们修改系统设置。</string>
+
+    <string name="message_error_storage">请检查外部存储设备。</string>
+    <string name="message_error_storeage_inavailable">外部存储设备不可用。</string>
+
+    <string name="message_error_save_failed">保存失败，请重试再次。</string>
+
+
+</resources>

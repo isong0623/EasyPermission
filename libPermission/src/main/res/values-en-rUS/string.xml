@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="permission_dialog_titile_denied_once">Permission application instructions</string>
+    <string name="permission_dialog_content_denied_once">In order to ensure that the program continues to run, we will apply for the following permissions from you:</string>
+    <string name="permission_dialog_confrim_denied_once">Authorization</string>
+    <string name="permission_dialog_cancel_denied_once">Cancel</string>
+
+    <string name="permission_dialog_titile_denied_always">Permission application instructions</string>
+    <string name="permission_dialog_content_denied_always">You have disabled the authorization of certain permissions of the program! \n\nIn order to ensure that the program continues to run, you need to go to the settings page to manually authorize the following permissions:</string>
+    <string name="permission_dialog_confrim_denied_always">Jump authorization</string>
+    <string name="permission_dialog_cancel_denied_always">Cancel authorization</string>
+    <string name="permission_dialog_exit_denied_always">Exit the program</string>
+
+    <string name="permission_dialog_better_performance">In order to make the program a better experience, we request the following features from you:</string>
+
+
+</resources>
